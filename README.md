@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amar Jadhav</h1>
 <h3 align="center">A backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadvamar" alt="jadvamar" /></a> </p>
-
 - 🌱 I’m currently learning **Java,Spring boot, Microservices**
 
 - 📫 How to reach me **jadvamar@gmail.com**
